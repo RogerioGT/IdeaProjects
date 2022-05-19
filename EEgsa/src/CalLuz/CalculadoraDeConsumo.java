@@ -1,4 +1,4 @@
-package CalLuz;
+package CalLuz; //Coded by Rogerio Martinez
 import java.util.Scanner;
 class CalculadoraDeConsumo {
     public static void main(String[] args) {
